@@ -4,9 +4,9 @@
 ### Meu repositório principal está aqui: 
 
 ### Esses são meus projetos mais recentes: 
+* cyberdate(dayJS) : https://cyberdate-hzzdrms.netlify.app/
+* Quadro-de-desenhos-com-CANVAS: https://canvas-draw-hzzdrms.netlify.app
 * To-do-list : https://to-do-list-hzzd.netlify.app
-* Pokémon Party Creator : https://pkmn-party-creatorhzzd.netlify.app
-* Marvel Flexbox example page : https://marvel-lp-hzzdrms.netlify.app
 
 ### Minhas principais ferramentas atualmente:
 
