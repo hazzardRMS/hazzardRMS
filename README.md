@@ -1,7 +1,7 @@
 # Olá, bem vindo ao repositório HazzardRMS! 
 ## _Meu nome é Henrique Ramos e esse é meu repositório secundário, lar dos meus projetos mais descontraídos e descomprimissados, geralmente voltados ao mundo Geek._
 
-### Meu repositório principal está aqui: 
+### Meu repositório principal está aqui: [github.com](https://github.com/henriquerms)
 
 ### Esses são meus projetos mais recentes: 
 * cyberdate(dayJS) : https://cyberdate-hzzdrms.netlify.app/
